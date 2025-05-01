@@ -1,2 +1,3 @@
-# Logica_Capacita
-Oficinas do Capacita Brasil C-Jovem de Lógica de Programação
+## Lógica de Programação
+Oficinas do Capacita Brasil C-Jovem sobre Lógica de Programação
+
